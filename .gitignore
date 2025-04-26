@@ -1,0 +1,4 @@
+*_test.go ，*.xls  表示过滤某种类型的文件
+
+/test  仅仅忽略项目根目录下的 test 文件，不包括 child/test等非根目录的test目录
+.vscode/launch.json
